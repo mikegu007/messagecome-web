@@ -1,0 +1,10 @@
+<!--pages/game/startGame/startGame.wxml-->
+<block   wx:for='{{messageArray}}' wx:key='{{messageArray[index]}}'>
+  <view class='cardView' animation="{{ani[index]}}" bindtouchstart='touchStart' bindtouchend='touchEnd' data-index='{{index}}' data-message='{{item.type}}'>
+    <view class=' flex'>
+      <view class='messageName'>{{item.name}}</view>
+      <view class='flex-1 textRight arrivalTime'>2分钟前</view>
+    </view>
+    <view class='messageCon'>{{item.content}}</view>
+  </view>
+  </block>

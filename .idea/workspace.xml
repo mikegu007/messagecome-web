@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69909f39-ca25-4678-9685-d75421a329a0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MessageGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudfunctions/login/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudfunctions/login/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/app.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/images/code-db-inc-dec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/images/code-db-onAdd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/images/code-db-onQuery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/images/code-db-onRemove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/images/code-func-sum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/images/console-entrance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/images/create-collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/addFunction/addFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/addFunction/addFunction.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/addFunction/addFunction.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/addFunction/addFunction.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/chooseLib/chooseLib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/chooseLib/chooseLib.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/chooseLib/chooseLib.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/chooseLib/chooseLib.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/databaseGuide/databaseGuide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/databaseGuide/databaseGuide.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/databaseGuide/databaseGuide.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/databaseGuide/databaseGuide.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/deployFunctions/deployFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/deployFunctions/deployFunctions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/deployFunctions/deployFunctions.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/deployFunctions/deployFunctions.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/gameIndex/gameIndex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/gameIndex/gameIndex.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/gameIndex/gameIndex.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/gameIndex/gameIndex.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/gameRules/gameRules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/gameRules/gameRules.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/gameRules/gameRules.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/gameRules/gameRules.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/myAchievent/myAchievent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/myAchievent/myAchievent.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/myAchievent/myAchievent.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/myAchievent/myAchievent.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/newRecord/newRecord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/newRecord/newRecord.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/newRecord/newRecord.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/newRecord/newRecord.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/startGame/startGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/startGame/startGame.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/startGame/startGame.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/game/startGame/startGame.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/storageConsole/storageConsole.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/storageConsole/storageConsole.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/storageConsole/storageConsole.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/pages/storageConsole/storageConsole.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/sitemap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/style/guide.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/utils/RSAEncrypt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/utils/json_util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/utils/network_util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/utils/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniprogram/utils/wxs/util.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-185" />
+    <option name="y" value="95" />
+    <option name="width" value="1310" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MessageGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MessageGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MessageGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MessageGame" type="462c0819:PsiDirectoryNode" />
+              <item name="miniprogram" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69909f39-ca25-4678-9685-d75421a329a0" name="Default" comment="" />
+      <created>1563613624327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563613624327</updated>
+      <workItem from="1563613625777" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="247000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32952926" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

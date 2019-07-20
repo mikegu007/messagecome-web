@@ -1,0 +1,17 @@
+/* pages/game/startGame/startGame.wxss */
+page{
+    background-color: #523981;
+}
+.textRight{
+  text-align: right;
+}
+.messageName{
+  font-size: 30rpx;
+}
+.arrivalTime{
+  font-size: 22rpx;
+}
+.messageCon{
+  font-size: 26rpx;
+  
+}
